@@ -35,3 +35,12 @@ Me apasiona el mundo del desarrollo de software sin olvidar mis raíces en siste
 
 ---
 
+### 📜 Certificaciones y Logros
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco-IT_Essentials-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Linux-Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/SMR-Matrícula_de_Honor-gold?style=for-the-badge&logo=microsoftacademic&logoColor=black" />
+</p>
