@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy Ousama 👋
 
-<!--
-**ousamaka/ousamaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM/DAW). Me encanta Java y crear interfaces gráficas.
 
-Here are some ideas to get you started:
+### 🛠️ Lenguajes y Herramientas
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaFX-4285F4?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Mis Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ousamaka&show_icons=true&theme=radical&hide_border=true" alt="Ousama's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ousamaka&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
