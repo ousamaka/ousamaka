@@ -35,8 +35,3 @@ Me apasiona el mundo del desarrollo de software sin olvidar mis raíces en siste
 
 ---
 
-### 📊 Mis Estadísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ousamaka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Ousama's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ousamaka&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Langs" />
-</p>
