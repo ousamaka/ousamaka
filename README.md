@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ousama 👋
 
-Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM/DAW). Me encanta Java y crear interfaces gráficas.
+Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM). Me encanta Java y crear interfaces gráficas.
 
 ### 🛠️ Lenguajes y Herramientas
 <p>
